@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GymRat", "GymRat\GymRat.csproj", "{433BAB4D-E10E-4D4E-A1F6-DAC7F77D9724}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{433BAB4D-E10E-4D4E-A1F6-DAC7F77D9724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{433BAB4D-E10E-4D4E-A1F6-DAC7F77D9724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{433BAB4D-E10E-4D4E-A1F6-DAC7F77D9724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{433BAB4D-E10E-4D4E-A1F6-DAC7F77D9724}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A88DD8EA-07E4-46A9-A4CE-69C7C3B7C927}
+	EndGlobalSection
+EndGlobal
