@@ -8,6 +8,6 @@ namespace GymRat
 {
     public class Trainingschedule
     {
-        public List<Trening>ćwiczenia;
+        public List<Trening>Exercise;
     }
 }
